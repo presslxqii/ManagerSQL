@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SystemAdministration.View.SystemAdministrationView">
+    <Position X="1.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QYNXE2ANgGcQMJYAkQK5zgJaaIDIABAA8TMzF1CCAUQ=</HashCode>
+      <FileName>View\Methods.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SystemAdministration.Controller.SystemAdministrationController" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QABAQCECABAAABAAgBAJAABQigEBAAAVAAAgAAABAAA=</HashCode>
+      <FileName>Controller\SystemAdministrationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemAdministration.Service.ObjectClassesService" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABABAABAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Service\ObjectClassesService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemAdministration.Model.ObjectClass" Collapsed="true">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAE4AAAUAAAAACQABEAAUAABAAAAACgAEAAQA=</HashCode>
+      <FileName>Model\ObjectClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemAdministration.Model.RoleDb" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RoleDb.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SystemAdministration.Model.UserDb" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\UserDb.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SystemAdministration.Service.RolesAndUsersService" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgACAAIDAQAAAAgAAAAABAAgEAAAAAAAAgACAAAAA=</HashCode>
+      <FileName>Service\RolesAndUsersService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
